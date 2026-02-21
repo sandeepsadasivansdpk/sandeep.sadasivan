@@ -1,2 +1,2 @@
-# sandeep.sadasivan.io
+# sandeep.sadasivan
 Portfolio Website
